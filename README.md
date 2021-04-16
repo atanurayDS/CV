@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-
-Passionate and self-taught aspiring data scientist. Student woking hard to please your eyes.
+Self-taught aspiring data scientist. 
+Engineering student, passionate, curious, soon bearded and muscular
 Check out my GitHub [here](https://github.com/Prevost-Guillaume) !
 
 ### Markdown
