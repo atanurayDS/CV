@@ -7,7 +7,9 @@ description: ML portfolio
 author: Guillaume Prévost
 
 
-# --- List of links in the navigation bar --- #
+avatar: "images/profile.jpg"
+round-avatar: true
+
 
 navbar-links:
   About Me: "aboutme"
