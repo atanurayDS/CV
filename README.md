@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Prevost-Guillaume/Prevost-Guillaume.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Passionate and self-taught aspiring data scientist. Student woking hard to please your eyes.
+Check out my GitHub [here](https://github.com/Prevost-Guillaume) !
 
 ### Markdown
 
