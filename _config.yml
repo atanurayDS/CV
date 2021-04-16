@@ -1,12 +1,7 @@
 theme: jekyll-theme-cayman
-# --- title: Guillaume Prévost --- #
-# --- description: ML portfolio --- #
+title: Guillaume Prévost
+description: ML portfolio
 
-
-# --- Required options --- #
-
-# Name of website
-title: Title
 
 # Your name to show in the footer
 author: Guillaume Prévost
